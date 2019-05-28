@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>img/cni_logo.png</file>
+        <file>img/sfb_logo.png</file>
+        <file>img/tudo_logo.png</file>
+        <file>qml/DoubleAxisPlot.qml</file>
+    </qresource>
+</RCC>

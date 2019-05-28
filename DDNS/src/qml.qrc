@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/qml/main.qml</file>
+        <file>ui/qml/Car.qml</file>
+        <file>ui/img/car.png</file>
+        <file>ui/img/eNB.png</file>
+        <file>ui/img/marker.png</file>
+        <file>ui/qml/Marker.qml</file>
+        <file>ui/qml/main_android.qml</file>
+        <file>ui/img/logo.png</file>
+    </qresource>
+</RCC>
